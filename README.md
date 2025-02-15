@@ -3,11 +3,10 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Anthony Freitas Borges
+Matricula: 894821
 
 ## Tela de inspeção com navegador
-
 
 ## Tela de projeto no Replit
 
