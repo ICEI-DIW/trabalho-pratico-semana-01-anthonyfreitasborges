@@ -7,6 +7,6 @@ Nome: Anthony Freitas Borges
 Matricula: 894821
 
 ## Tela de inspeção com navegador
-
+<img src="Tela de inspeção com navegador.png">
 ## Tela de projeto no Replit
-
+<img src="Tela de projeto no Replit.png">
